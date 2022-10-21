@@ -1,2 +1,2 @@
-# world-of-pictures
-world-of-pictures
+# web
+world of pictures
